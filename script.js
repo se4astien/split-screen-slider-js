@@ -1,5 +1,4 @@
 // when the DOM load
-
 document.addEventListener('DOMContentLoaded', function() {
   let wrapper = document.getElementById('wrapper');
   let topLayer = document.querySelector('.top');
